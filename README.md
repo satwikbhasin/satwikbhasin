@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=satwikbhasin&style=flat-square&color=blue" alt=""/>
 </div>
 
-![General](https://github-readme-stats.vercel.app/api?username=satwikbhasin&theme=dark&show_icons=true)
-
 ## About Me
 
 May or may not be vibe coding
